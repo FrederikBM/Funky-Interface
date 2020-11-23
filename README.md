@@ -1,6 +1,6 @@
 # Funky-Interface - .jar fil
 
-Navnet på .jar filen er GUI_Interface
+Navnet på .jar filen er GUI_Interface <\b>
 Du importerer .jar filen ved at skrive "GUI_Interface bib = new GUI_Interface();"
 Du har nu importeret GUI_Interface med navnet bib
 
